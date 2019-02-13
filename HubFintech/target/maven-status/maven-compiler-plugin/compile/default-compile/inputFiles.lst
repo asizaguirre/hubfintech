@@ -1,0 +1,15 @@
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/HubApplication.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/config/JmsConfig.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/repositories/PessoaRepository.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/domain/Conta.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/domain/BaseClass.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/jms/JmsConsumer.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/jms/JmsProducer.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/controllers/IndexController.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/services/CRUDService.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/services/ContaService.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/config/SwaggerConfig.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/repositories/ContaRepository.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/services/ContaServiceImpl.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/controllers/ContaController.java
+/home/bugs/workspaces/workspace_java/HubFintech/src/main/java/br/com/hubfintech/domain/Pessoa.java

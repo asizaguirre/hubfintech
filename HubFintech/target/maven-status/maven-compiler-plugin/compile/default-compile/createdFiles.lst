@@ -1,0 +1,15 @@
+br/com/hubfintech/controllers/ContaController.class
+br/com/hubfintech/domain/BaseClass.class
+br/com/hubfintech/controllers/IndexController.class
+br/com/hubfintech/repositories/ContaRepository.class
+br/com/hubfintech/domain/Conta.class
+br/com/hubfintech/domain/Pessoa.class
+br/com/hubfintech/repositories/PessoaRepository.class
+br/com/hubfintech/HubApplication.class
+br/com/hubfintech/jms/JmsProducer.class
+br/com/hubfintech/services/CRUDService.class
+br/com/hubfintech/jms/JmsConsumer.class
+br/com/hubfintech/services/ContaServiceImpl.class
+br/com/hubfintech/config/SwaggerConfig.class
+br/com/hubfintech/config/JmsConfig.class
+br/com/hubfintech/services/ContaService.class
